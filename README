@@ -1,3 +1,16 @@
 El cliente para la aplicación Operante de Héctor Galindo.
 
-El cliente está construido mediante Electron.io
+El cliente está construido mediante Electron.io.
+
+Instalación rápida
+El proyecto requiere la instalación de Node.JS. Después, seguir los siguientes pasos:
+
+1. Clonar/descargar el proyecto en un directorio local.
+
+2. Navegar al directorio del proyecto
+
+3. npm install (instalar las dependencias del proyecto)
+
+4. npm run dist (generará el archivo ejecutable correspondiente al SO en el que se ejecute)
+
+Desde el directorio actual, dist/ contendrá el instalador de Operante.
